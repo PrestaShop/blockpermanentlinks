@@ -33,7 +33,7 @@ class BlockPermanentLinks extends Module
 	{
 		$this->name = 'blockpermanentlinks';
 		$this->tab = 'front_office_features';
-		$this->version = '0.3.0';
+		$this->version = '0.3.1';
 		$this->author = 'PrestaShop';
 		$this->need_instance = 0;
 
